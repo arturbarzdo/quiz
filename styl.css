@@ -1,0 +1,148 @@
+body{
+	background-image:url("img/g.png");
+}
+a{
+	text-decoration:none;
+	color:blue;
+	display:block;
+	width:100%;
+	height:100%;
+}
+.odp:hover{
+	background-color:grey;
+	
+}
+#clear{
+	clear:both;
+}
+#pytanie{
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	background-color:grey;
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	
+
+}
+#odp{
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.odp{
+	width:270px;
+	height:60px;
+	float:left;
+	background-color:white;
+	margin-left:10px;
+	margin-top:20px;
+	padding:10px;
+	border-radius:10px;
+	text-align:center;
+	display:block;
+
+}
+.odpf{
+	width:270px;
+	height:70px;
+	float:left;
+	background-color:grey;
+	margin-left:10px;
+	margin-top:20px;
+	padding:3px;
+	border-radius:10px;
+	text-align:center;
+	
+
+}
+#naglowek{
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.img{
+	width:240px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#szanse{
+	color:white;
+	width:400px;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;
+	font-size:40px;
+	
+}
+#text-szanse{
+	height:50px;
+	padding:15px;
+     
+}
+.szanse{
+	
+	height:40px;
+}
+
+#zla{
+	width:580px;
+	background-color:red;
+	padding:10px;
+	border-radius:10px;
+	text-align:center;
+	margin-top:25px;
+
+}
+#poprawna{
+	width:580px;
+	background-color:green;
+	padding:10px;
+	border-radius:10px;
+	text-align:center;
+	margin-top:25px;
+}
+.przycisk{
+	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	width:480px;
+	background-color:#00CCCC;
+	padding:10px;
+	border-radius:10px;
+	text-align:center;
+	margin-top:35px;
+}
+#input{
+	color:white;
+	width:350px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	
+}
+.przyciskiStart{
+	
+	width:580px;
+	background-color:green;
+	padding:10px;
+	border-radius:10px;
+	text-align:center;
+	margin-top:25px;
+	
+}
+.wysrodkowanie{
+	width:580px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#finish{
+	text-align:center;
+	color:white;
+	font-size:25px;
+	
+}
