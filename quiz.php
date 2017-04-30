@@ -65,7 +65,7 @@ if((!isset($_SESSION['punkty']))||(!isset($_SESSION['szanse']))){
 			<div  id="szanse"><span id="text-szanse">Twoje szanse:</span>
 			<?php 
 			for ($i = 0; $i<$_SESSION['szanse'];$i++){
-				print '<img class="szanse" src="img/dzik.png">';
+				print '<img class="szanse" src="img/'.$tytul.'/4.png">';
 			}
 			?>
 			</div>
